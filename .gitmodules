@@ -1,0 +1,4 @@
+[submodule "libs/new_lib"]
+	path = libs/new_lib
+	url = https://github.com/Dyats2003/practice_1_TRPOCP_submodule_lib.git
+	branch = main
